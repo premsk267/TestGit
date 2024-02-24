@@ -1,0 +1,9 @@
+git clone https://github.com/premsk267/TestGit.git
+cd TestGit
+git add .
+git commit -m "Initial commit"
+git push
+git add .
+git commit -m "2nd commit"
+git push
+doskey/history
